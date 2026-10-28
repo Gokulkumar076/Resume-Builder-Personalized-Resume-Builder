@@ -23,6 +23,7 @@
     "groq-sdk": "^1.1.1",
     "helmet": "^8.1.0",
     "jsonwebtoken": "^9.0.2",
+    "mongodb-memory-server": "^11.3.0",
     "mongoose": "^8.18.3",
     "multer": "^2.0.2",
     "openai": "^6.1.0"
